@@ -1,0 +1,31 @@
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/bin/Debug/net5.0/ArvoreBinaria.deps.json
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/bin/Debug/net5.0/ArvoreBinaria.runtimeconfig.json
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/bin/Debug/net5.0/ArvoreBinaria.runtimeconfig.dev.json
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/bin/Debug/net5.0/ArvoreBinaria.dll
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/bin/Debug/net5.0/ref/ArvoreBinaria.dll
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/bin/Debug/net5.0/ArvoreBinaria.pdb
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.csprojAssemblyReference.cache
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.AssemblyInfoInputs.cache
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.AssemblyInfo.cs
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.csproj.CoreCompileInputs.cache
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.dll
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ref/ArvoreBinaria.dll
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.pdb
+/Users/marcelovidigal/Dropbox/Aulas/Algoritmos e Estruturas de Dados/Labs/C#/Atividades/ArvoreBinaria20202/obj/Debug/net5.0/ArvoreBinaria.genruntimeconfig.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ArvoreBinaria.exe
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ArvoreBinaria.deps.json
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.json
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ArvoreBinaria.runtimeconfig.dev.json
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\bin\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.csprojAssemblyReference.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfoInputs.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.AssemblyInfo.cs
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.csproj.CoreCompileInputs.cache
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ref\ArvoreBinaria.dll
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.pdb
+C:\Users\joao_\OneDrive\Área de Trabalho\projects\EDA\ArvoreBinaria20202\obj\Debug\net5.0\ArvoreBinaria.genruntimeconfig.cache
