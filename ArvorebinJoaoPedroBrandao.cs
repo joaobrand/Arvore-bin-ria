@@ -79,7 +79,7 @@ public void ExibirArvore()
 			ExibirArvore(raiz, 0);
 			Console.WriteLine();
 		    }
-public void Exibir(Nodo no, int ini)
+public void ExibirArvore(Nodo no, int ini)
 		{
 			int i;
 
