@@ -1,6 +1,11 @@
 using System;
 
-class Arvore_binaria {
+class Arvore_binari: ProgramaArvoreBinaria {
+
+ArvoreBinaria arvoreBinaria = new ArvoreBinaria();
+ProgramaArvoreBinaria prograArvorebina = new ProgramaArvoreBinaria();
+
+
 private Nodo raiz = null;
 private int qntd =0;
 private string result = "";
@@ -58,5 +63,66 @@ result = "";
 Le_nodo(raiz);
 return result;
  }
+ //inserindo valores aos nós e montando a árvore abstratamente 
+ public void Cria_Arvore()
+		{
+			raiz = new No('A');
+			raiz.set_no_esquerda = new No('B');
+			raiz.set_no_direita = new No('C');
+			raiz.set_no_esquerda.set_no_esquerda = new No('D');
+			raiz.set_no_esquerda.set_no_direita= new No('E');
+			raiz.set_no_direita.set_no_esquerda = new No('F');
+		}
+// mostrando a arvore
+public void ExibirArvore()
+			{
+			ExibirArvore(raiz, 0);
+			Console.WriteLine();
+		    }
+public void Exibir(Nodo no, int ini)
+		{
+			int i;
 
+			if (no == null)
+				return;
+
+			ExibirArvore(no.get_no_direita, ini + 1);
+			Console.WriteLine();
+
+			for (i = 0; i < ini; i++)
+				Console.Write("    ");
+
+			Console.WriteLine(no.Le_nodo);
+
+			
+		}
+
+}
+        // mostrando o percurso da arv do professor
+
+       arvoreBinaria.CriarArvore();
+			
+			
+			arvoreBinaria.Exibir();
+			Console.WriteLine();
+
+			Console.WriteLine("pre-ordem: ");
+			arvoreBinaria.PercorrerPreOrdem();
+			Console.WriteLine();
+
+			Console.WriteLine("em ordem: ");
+			arvoreBinaria.PercorrerEmOrdem();
+			Console.WriteLine();
+
+			Console.WriteLine("pos-ordem: ");
+			arvoreBinaria.PercorrerPosOrdem();
+			Console.WriteLine();
+
+			Console.WriteLine("ordenado por nivel: ");
+			arvoreBinaria.PercorrerOrdemPorNivel();
+			Console.WriteLine();
+			
+
+			
+       
 }

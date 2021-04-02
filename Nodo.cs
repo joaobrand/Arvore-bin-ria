@@ -13,7 +13,7 @@ public void set_valor(int v){
 }
 public void set_no_pai(Nodo no){
     no_pai = no;
-    ?
+}  
 
 public void set_no_esquerda(Nodo no){
     no_esquerda= no;
